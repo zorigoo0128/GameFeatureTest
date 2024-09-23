@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PixelsCoreRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\zorig\Documents\Unreal Projects\GameFeatureTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\zorig\Documents\Unreal Projects\GameFeatureTest\Plugins\GameFeatures\PixelsCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\PixelsCoreRuntime\PixelsCoreRuntimeModule.cpp.obj"
+"C:\Users\zorig\Documents\Unreal Projects\GameFeatureTest\Plugins\GameFeatures\PixelsCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\PixelsCoreRuntime\Default.rc2.res"
+/OUT:"C:\Users\zorig\Documents\Unreal Projects\GameFeatureTest\Plugins\GameFeatures\PixelsCore\Intermediate\Build\Win64\x64\UnrealEditor\Development\PixelsCoreRuntime\UnrealEditor-PixelsCoreRuntime.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zorig\\documents\\unreal projects\\gamefeaturetest\\plugins\\gamefeatures\\pixelscore\\source\\pixelscoreruntime\\pixelscoreruntimemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zorig\\documents\\unreal projects\\gamefeaturetest\\intermediate\\build\\win64\\x64\\gamefeaturetesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\zorig\\documents\\unreal projects\\gamefeaturetest\\plugins\\gamefeatures\\pixelscore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pixelscoreruntime\\definitions.pixelscoreruntime.h",
+            "c:\\users\\zorig\\documents\\unreal projects\\gamefeaturetest\\plugins\\gamefeatures\\pixelscore\\source\\pixelscoreruntime\\pixelscoreruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
